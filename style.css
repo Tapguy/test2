@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --pink: hsl(322, 100%, 66%);
+  --paleCyan: hsl(193, 100%, 96%);
+  --darkCyan: hsl(192, 100%, 9%);
+  --greyBlue: hsl(208, 11%, 55%);
+}
+
+header {
+  background-image: url("images/bg-hero-desktop.svg");
+}
+
+body {
+}
